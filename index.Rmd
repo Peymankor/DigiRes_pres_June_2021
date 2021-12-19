@@ -43,10 +43,6 @@ library(fontawesome) # from github: https://github.com/rstudio/fontawesome
 library(DiagrammeR)
 ```
 
-<!-- <div class="my-footer"><span>arm.rbind.io/slides/xaringan</span></div> -->
-
-<!-- this adds the link footer to all slides, depends on my-footer class in css-->
----
 name: xaringan-title
 class: center, top
 background-image: url(test2.jpg)
